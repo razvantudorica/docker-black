@@ -1,6 +1,0 @@
--   id: black-docker
-    name: black (via docker)
-    description: black formatter provided by docker
-    entry: black
-    language: docker
-    files: \.py$
